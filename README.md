@@ -10,15 +10,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 💻 Full-stack developer focused on modern web technologies  
-- 🧠 Currently exploring **microservices**, **DevOps**, and **real-time applications**  
-- 🚀 I love building clean architectures and scalable backend systems  
+- Full-stack developer focused on modern web technologies  
+- Currently exploring **microservices**, **DevOps**, and **real-time applications**  
+- I love building clean architectures and scalable backend systems  
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 #### **Frontend**
 
@@ -40,7 +40,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" height="40" alt="Express"/>
 </p>
 
 ---
@@ -68,17 +68,17 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
 </p>
 
 <p>
-  📝 Winston • Morgan • Joi • class-validator • Jest • Swagger • Redis
+  Winston • Morgan • Joi • class-validator • Jest • Swagger • Redis
 </p>
 
 ---
 
-### 🧠 Currently Learning
+### Currently Learning
 
 - Microservices architecture (RabbitMQ, Redis)  
 - Advanced Docker  
@@ -99,7 +99,7 @@
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 -  [**Online Store**](https://github.com/internethero00/bakery-shop-v1-egor/tree/master) — platform with firebase + React  
 -  [**Employee Manager**](https://github.com/hw-java27-30/employee-server/tree/main) — employee management system (Backend proj.)
@@ -107,20 +107,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=internethero00&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=internethero00&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=internethero00&show_icons=true&theme=radical" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=internethero00&layout=compact&theme=radical" height="150" alt="Top Langs" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p>
   <a href="mailto:egormix1703@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/egor-grushin-4b2548255/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
@@ -131,7 +131,7 @@
   <a href="https://vk.com/id63349998">
     <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" width="40" height="40" alt="VK"/>
   </a>
-   <a href="mailto:egorka_grushin@mail.ru">
-    <img src="https://www.vectorlogo.zone/logos/mailru/mailru-icon.svg" width="40" height="40" alt="Mail.ru"/>
-  </a>
 </p>
+
+**Email:** egormix1703@gmail.com  
+**Mail.ru:** egorka_grushin@mail.ru
