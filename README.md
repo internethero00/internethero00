@@ -107,7 +107,7 @@
 
 ### Featured Projects
 
--  [**Online Store**](https://github.com/internethero00/bakery-shop-v1-egor/tree/master) — platform with firebase + React  
+-  [**Online Store**](https://github.com/internethero00/shop24_project) — platform with Nest.js + Next.js + Prisma (in process)  
 -  [**Employee Manager**](https://github.com/hw-java27-30/employee-server/tree/main) — employee management system (Backend proj.)
 -  [**JWT**](https://github.com/internethero00/jwt-test-app) — advanced JWT authorization (Backend proj.)
 
