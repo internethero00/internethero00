@@ -66,8 +66,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40" alt="Sequelize"/>
   <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="80" alt="Mongoose"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
 </p>
-
 ---
 
 #### **Tools & Other**
@@ -116,8 +116,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=internethero00&show_icons=true&theme=radical" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=internethero00&layout=compact&theme=radical" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=internethero00&show_icons=true&theme=radical" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=internethero00&layout=compact&theme=radical" height="150" alt="Top Langs" />
 </p>
 
 ---
