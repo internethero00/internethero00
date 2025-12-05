@@ -68,7 +68,6 @@
   <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="80" alt="Mongoose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
 </p>
----
 
 #### **Tools & Other**
 
