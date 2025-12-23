@@ -108,7 +108,7 @@
 ### Featured Projects
 
 -  [**Online Store**](https://github.com/internethero00/shop24_project) — platform with Nest.js + Next.js + Prisma + PostgreSQL(MVP Completed)
--  [**Advanced authentication **](https://github.com/internethero00/auth-advanced) — session, two factor authentication,
+-  [**Advanced authentication**](https://github.com/internethero00/auth-advanced) — session, two factor authentication,
    oauth 2.0, password recovery, recaptcha, email confirmation Nest.js + Next.js + Prisma + Redis + PostgreSQL (Backend Completed)
 -  [**Employee Manager**](https://github.com/hw-java27-30/employee-server/tree/main) — employee management system (Backend proj.)
 -  [**JWT**](https://github.com/internethero00/jwt-test-app) — advanced JWT authorization (Backend proj.)
