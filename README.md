@@ -116,7 +116,7 @@
 -  [**Online Store**](https://github.com/internethero00/shop24_project) — platform with Nest.js + Next.js + Prisma + PostgreSQL(MVP Completed)
 -  [**Advanced authentication**](https://github.com/internethero00/auth-advanced) — session, two factor authentication,
    oauth 2.0, password recovery, recaptcha, email confirmation Nest.js + Next.js + Prisma + Redis + PostgreSQL (Backend Completed)
--  [**Tooly.rent**](https://github.com/internethero00/tooly_rent) — Boocking system. Microservices architecture (Backend proj.)
+-  [**Tooly.rent**](https://github.com/internethero00/tooly_rent) — Booking system. Microservices architecture (Backend proj.)
 
 ---
 
