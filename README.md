@@ -53,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" height="40" alt="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40" alt="RabbitMQ"/>
+  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21~bgwhite.svg" width="80" height="80" alt="gRPC"/>
 </p>
 
 ---
@@ -92,7 +94,7 @@
 
 ### Currently Learning
 
-- Microservices architecture (RabbitMQ, Redis)  
+- Microservices architecture
 - Advanced Docker  
 - Clean architecture and scalable backend  
 - WebSocket & real-time applications
