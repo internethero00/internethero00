@@ -83,7 +83,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker"/>
 </p>
 
 <p>
