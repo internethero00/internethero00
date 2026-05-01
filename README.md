@@ -35,14 +35,14 @@
 #### **Frontend**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
 </p>
 
 ---
@@ -50,11 +50,11 @@
 #### **Backend**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" height="40" alt="Express"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40" alt="RabbitMQ"/>
-  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21~bgwhite.svg" width="80" height="80" alt="gRPC"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" alt="NestJS"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" width="80" alt="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" alt="RabbitMQ"/>
+  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21~bgwhite.svg" width="80" alt="gRPC"/>
 </p>
 
 ---
@@ -62,10 +62,10 @@
 #### **Databases**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
 </p>
 
 ---
@@ -73,17 +73,17 @@
 #### **ORM / ODM**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40" alt="Sequelize"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40" height="40" alt="Mongoose"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40" alt="Mongoose"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
 </p>
 
 #### **Tools & Other**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" alt="Docker"/>
 </p>
 
 <p>
@@ -104,8 +104,8 @@
 #### Also familiar with
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
 > ⚡ I’ve previously studied **Java** and **Python** and have a solid foundation in both languages,  
@@ -135,16 +135,16 @@
 
 <p>
   <a href="mailto:egormix1703@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/egor-grushin-4b2548255/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/egormix1703">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40" alt="Telegram"/>
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" alt="Telegram"/>
   </a>
   <a href="https://vk.com/id63349998">
-    <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" width="40" height="40" alt="VK"/>
+    <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" width="40" alt="VK"/>
   </a>
 </p>
 
